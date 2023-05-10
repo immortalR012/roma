@@ -839,7 +839,7 @@
 
     .connection__button {
         height: 75px;
-        max-width: 100%;
+        max-width: 60%;
         background-color: #FF3B3B;
         color: #fff;
         font-size: 18px;
