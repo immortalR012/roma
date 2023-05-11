@@ -149,24 +149,16 @@
 
 
 
-.organaisation__section-square {
+.organaisation__video {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-left: 86px;
     height: 336px;
-    width: 552px;
-    background-color: #FF3F40;
-
+    max-width: 552px;
 }
 
-.content-square {
-    display: flex;
-    width: 70px;
-    height: 69px;
-    background: #FFFFFF;
-    opacity: 0.8;
-}
+
 
 
 
@@ -745,7 +737,7 @@
         align-items: center;
     }
 
-    .organaisation__section-square {
+    .organaisation__video {
         margin: 20px 0 0 0;
 
     }
@@ -1001,9 +993,6 @@
         padding-bottom: 20px;
     }
 
-    .organaisation__section-square {
-        width: 400px
-    }
 
     .button-red {
         margin-left: 100px;
@@ -1027,7 +1016,7 @@
     }
 
     .connection-box {
-        padding-left: 15px;
+        padding-left: 10px;
     }
 
     .email-box__btn {
